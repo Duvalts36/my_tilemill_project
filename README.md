@@ -1,2 +1,2 @@
 # my_tilemill_project
-project file project in tilemill
+project file project in tilemill for rendering indonesia maps
